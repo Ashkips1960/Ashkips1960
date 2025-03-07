@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ashkips1960
+- 👀 I’m interested in Data Science , python and C#
+- 🌱 I’m currently learning Computer science 
+- 📫 How to reach me - email(ashfordkipleting810@gmail.com)
