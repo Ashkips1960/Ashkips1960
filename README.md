@@ -6,7 +6,7 @@ I'm a backend developer who enjoys working with Java, Python, and R. My main int
 
 ## Tech stacks
 - Languages: Python, SQL (MySQL)  , R , Java
-- 
+
 ## Contact Me  
 You can reach me via email: ashfordkipleting810@gmail.com  
 
