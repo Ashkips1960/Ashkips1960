@@ -7,7 +7,7 @@ Currently studying at The Catholic University of Eastern Africa (CUEA) as a 4th 
 ## Technologies I Use
 - Java, Python, R
 - SQL, Git, REST APIs
-- Data Science & Automation
+-
 
 ## Interests
 - Backend development
